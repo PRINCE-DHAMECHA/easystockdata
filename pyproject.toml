@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "easystockdata"
+version = "0.1.10"
+description = "A python module that gives stock price data and stock symbols."
+authors = ["p_m_dhamecha <pmdhamecha673@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+requests = "^2.31.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
