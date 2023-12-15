@@ -2,6 +2,8 @@
 
 A python module that gives stock price data and stock symbols.
 
+pypi project : https://pypi.org/project/easystockdata/
+
 ## Installation
 
 Install `easystocksdata` using `pip`:
